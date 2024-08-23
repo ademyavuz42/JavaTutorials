@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Java program to remove duplicates characters from given String.
 public class RemoveDuplicates {
     public static void main(String[] args) {
         String input = "aabbccddeeff";

@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Java program to Generate prime numbers between 1 & given 4 number
 public class PrimeNumbersGenerator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

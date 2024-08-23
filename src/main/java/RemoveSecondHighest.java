@@ -3,6 +3,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
+// Program Remove the second highest element from the HashMap.
 public class RemoveSecondHighest {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
